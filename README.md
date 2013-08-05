@@ -1,6 +1,6 @@
 ## Who are we?
 
-We are the [internet.taskforce.is](http://taskforce.is). The taskforce is a volunteer rapid response team dedicated to creating a platform to defend the internet. In addition, we create bespoke campaigns to support our goals.
+We are the [internet.taskforce.is](http://taskforce.is). The taskforce is a volunteer rapid response team dedicated to creating a platform to defend the internet. In addition, we create bespoke campaigns to support our advocacy goals.
 
 We work with groups like the EFF, Mozilla, Fight for the Future, Free Press, Access and others similar organizations to coordinate and help make our internet advocacy campaigns more effective.
 
@@ -10,17 +10,17 @@ We work with groups like the EFF, Mozilla, Fight for the Future, Free Press, Acc
 * **IRC**: Say hi on the ##rritf IRC channel on Freenode.
 * **Mailing list**: [Google Groups](https://groups.google.com/forum/#!forum/taskforcemembers)
 * **Collaborative documents**: [Internet Taskforce etherpad](internet-taskforce.etherpad.mozilla.com)
-* **Wiki**: Check an update the [Wiki](https://github.com/tfrce/Wiki/wiki).
+* **Wiki**: Check and update the [Wiki](https://github.com/tfrce/Wiki/wiki).
 
 
 ## Teams
 The internet taskforce is nominally divided into two teams.
 
 ### Platform Team
-The Platform team is responsible for developing a platform to help the people quickly build campaigns
+The Platform team is responsible for developing a platform to help the people quickly build campaigns.
 
 ### Campaign Team
-This is a rapid response team that can be launched within 24 hours to 
+This is a rapid response team that can be launched within 24 hours in response to any issue. 
 
 
 ## Projects
