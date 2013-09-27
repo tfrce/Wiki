@@ -14,7 +14,7 @@ visit us
 
 * **IRC**: Say hi on the ##rritf IRC channel on Freenode.
 * **Mailing list**: [Google Groups](https://groups.google.com/forum/#!forum/taskforcemembers)
-* **Collaborative documents**: [Internet Taskforce etherpad](internet-taskforce.etherpad.mozilla.com)
+* **Collaborative documents**: [Internet Taskforce etherpad](internet-taskforce.etherpad.mozilla.org)
 * **Wiki**: Check and update the [Wiki](https://github.com/tfrce/Wiki/wiki).
 
 
@@ -31,9 +31,11 @@ This is a rapid response team of designers & web devs that can be launched withi
 ## Projects
 #### Current Campaigns
 
-1. [1984Day](http://1984day.com)
+1. [StopWatching.Us Coalition]
+	* created the website to organize the rally in Washington, D.C. 
+2. [1984Day](http://1984day.com)
 	* created the website for the Restore the Forth rallies across the country  
-2. [Defund the NSA](http://defundthensa.com)
+3. [Defund the NSA](http://defundthensa.com)
 	* a calling campaign to get people to call their Representatives to support the Amash Amendment.
 	
 #### Platform Products
