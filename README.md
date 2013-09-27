@@ -14,7 +14,7 @@ visit us
 
 * **IRC**: Say hi on the ##rritf IRC channel on Freenode.
 * **Mailing list**: [Google Groups](https://groups.google.com/forum/#!forum/taskforcemembers)
-* **Collaborative documents**: [Internet Taskforce etherpad](internet-taskforce.etherpad.mozilla.org)
+* **Collaborative documents**: [Internet Taskforce etherpad](http://internet-taskforce.etherpad.mozilla.org)
 * **Wiki**: Check and update the [Wiki](https://github.com/tfrce/Wiki/wiki).
 
 
