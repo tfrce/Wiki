@@ -16,6 +16,7 @@ visit us
 * **Mailing list**: [Google Groups](https://groups.google.com/forum/#!forum/taskforcemembers)
 * **Collaborative documents**: [Internet Taskforce etherpad](http://internet-taskforce.etherpad.mozilla.org)
 * **Wiki**: Check and update the [Wiki](https://github.com/tfrce/Wiki/wiki).
+* **Status Meetings: view the [agenda](https://github.com/tfrce/Wiki/wiki/Weekly-status-meetings) and [minutes](https://github.com/tfrce/Wiki/wiki/Weekly-status-meetings) on the wiki
 
 
 ## Teams
