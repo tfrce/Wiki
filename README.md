@@ -19,7 +19,7 @@ visit us
 
 
 ## Teams
-The internet taskforce is nominally divided into two teams.
+The Internet Taskforce is nominally divided into two teams.
 
 ### Platform Team
 The Platform team is responsible for developing a platform to help the people quickly build campaigns.
@@ -31,7 +31,7 @@ This is a rapid response team of designers & web devs that can be launched withi
 ## Projects
 #### Current Campaigns
 
-1. [StopWatching.Us Coalition]
+1. [StopWatching.Us Coalition](http://rally.stopwatching.us)
 	* created the website to organize the rally in Washington, D.C. 
 2. [1984Day](http://1984day.com)
 	* created the website for the Restore the Forth rallies across the country  
